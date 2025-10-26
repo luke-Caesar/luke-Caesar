@@ -15,4 +15,5 @@
 
 <p>Vsc    <img src="[https://example.com/image.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)" alt="Vsc Icon" style="width: 100px; height: 100px;"></p>
 
+<a href="https://example.com" target="_blank" rel="noopener noreferrer">Link</a>
 
